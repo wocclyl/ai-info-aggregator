@@ -3329,6 +3329,210 @@
       "pushed_at": "2026-05-08",
       "title": "美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t82ef8/100_paid_users_in_month_one_for_a_mac_app_solo/",
+      "pushed_at": "2026-05-09",
+      "title": "100+ paid users in month one for a Mac app. solo dev. zero ads. here's the playbook.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t8h920/i_built_a_tool_i_thought_useful_but_i_get_zero/",
+      "pushed_at": "2026-05-09",
+      "title": "I built a tool I thought useful but I get zero engagement",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t82zbx/update_my_nologin_chat_project_just_crossed_180k/",
+      "pushed_at": "2026-05-09",
+      "title": "Update: my no-login chat project just crossed 180K Google clicks in 28 days",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t8lzmx/open_source_parla_voice_to_text_app_for_windows/",
+      "pushed_at": "2026-05-09",
+      "title": "[OPEN SOURCE] Parla: Voice to text app for Windows (yet)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t8lqz5/im_building_a_windows_desktop_app_that_converts/",
+      "pushed_at": "2026-05-09",
+      "title": "I'm building a Windows desktop app that converts images to SVG vectors using AI — free demo available",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t8isg7/working_my_first_niched_side_project_just_for/",
+      "pushed_at": "2026-05-09",
+      "title": "Working my first niched side project. Just for \"coders\" that use opencode, claude-code and etc...",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t826jg/i_built_a_super_cheap_ai_search_report_because_i/",
+      "pushed_at": "2026-05-09",
+      "title": "I built a super cheap AI search report because I didn't want to pay for expensive AEO tools",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app",
+      "pushed_at": "2026-05-09",
+      "title": "Ben's Builds #3 - an email app",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+      "pushed_at": "2026-05-09",
+      "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+      "pushed_at": "2026-05-09",
+      "title": "Quoting Luke Curley",
+      "score": 6
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48078195",
+      "pushed_at": "2026-05-09",
+      "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/jher7/tokenyst",
+      "pushed_at": "2026-05-09",
+      "title": "Show HN: CLI to budget Claude Code session costs",
+      "score": 6
+    },
+    {
+      "url": "https://chonklm.com",
+      "pushed_at": "2026-05-09",
+      "title": "Show HN: ChonkLM – Tiny language models running offline in the browser",
+      "score": 6
+    },
+    {
+      "url": "https://wuphf.team",
+      "pushed_at": "2026-05-09",
+      "title": "Show HN: My AI agents bully each other to prevent context drift",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t82zxv/80_toksec_and_128k_context_on_12gb_vram_with/",
+      "pushed_at": "2026-05-09",
+      "title": "80 tok/sec and 128K context on 12GB VRAM with Qwen3.6 35B A3B and llama.cpp MTP",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/",
+      "pushed_at": "2026-05-09",
+      "title": "BeeLlama.cpp: advanced DFlash & TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t86j45/more_qwen3627b_mtp_success_but_on_dual_mi50s/",
+      "pushed_at": "2026-05-09",
+      "title": "More Qwen3.6-27B MTP success but on dual Mi50s",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t81dq7/pi_and_qwen36_27b_make_setting_up_archlinux/",
+      "pushed_at": "2026-05-09",
+      "title": "Pi and Qwen3.6 27B make setting up Archlinux really easy.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t81u76/deepseek_rejects_alibaba_prioritizing_corporate/",
+      "pushed_at": "2026-05-09",
+      "title": "DeepSeek Rejects Alibaba: Prioritizing Corporate Independence Over Big Tech Ecosystems",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7qfaq/qwen36_35b_a3b_uncensored_heretic_native_mtp/",
+      "pushed_at": "2026-05-09",
+      "title": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved is Out Now With KLD 0.0015, 10/100 Refusals and the Full 19 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8db1j/model_add_sarvam_moe_architecture_support_by/",
+      "pushed_at": "2026-05-09",
+      "title": "model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88r26/the_many_sides_of_mimo_v25_pro/",
+      "pushed_at": "2026-05-09",
+      "title": "The many sides of Mimo v2.5 Pro",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7zto6/testing_mimov25iq3_s_with_1048576_context/",
+      "pushed_at": "2026-05-09",
+      "title": "Testing MiMo-V2.5-IQ3_S with 1'048'576 context",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "pushed_at": "2026-05-09",
+      "title": "CloakHQ/CloakBrowser",
+      "score": 10
+    },
+    {
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "pushed_at": "2026-05-09",
+      "title": "awslabs/aidlc-workflows",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "pushed_at": "2026-05-09",
+      "title": "HKUDS/AI-Trader",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "pushed_at": "2026-05-09",
+      "title": "datawhalechina/hello-agents",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/flutter/skills",
+      "pushed_at": "2026-05-09",
+      "title": "flutter/skills",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "pushed_at": "2026-05-09",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "pushed_at": "2026-05-09",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3797202414820359?f=rss",
+      "pushed_at": "2026-05-09",
+      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3801348046151428?f=rss",
+      "pushed_at": "2026-05-09",
+      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1661163?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-09",
+      "title": "播放破亿的 AI 短片，名场面是一个「穿帮镜头」| 对话《纸手机》主创",
+      "score": 7
+    },
+    {
+      "url": "http://www.geekpark.net/news/363933",
+      "pushed_at": "2026-05-09",
+      "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
+      "score": 6
     }
   ]
 }
