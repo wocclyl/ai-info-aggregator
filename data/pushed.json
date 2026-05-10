@@ -3533,6 +3533,180 @@
       "pushed_at": "2026-05-09",
       "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t9d82g/bootstrapped_a_greek_company_intelligence_tool_40/",
+      "pushed_at": "2026-05-10",
+      "title": "Bootstrapped a Greek company intelligence tool. 40 paying users in 3 months. Looking for UI/UX feedback.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1t9hout/i_made_an_app_that_forces_me_to_study_before_i/",
+      "pushed_at": "2026-05-10",
+      "title": "I made an App that forces me to study before I can use Social Media",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48088819",
+      "pushed_at": "2026-05-10",
+      "title": "Show HN: I trained a chess engine to play like humans",
+      "score": 8
+    },
+    {
+      "url": "https://simplybudget.framer.ai/",
+      "pushed_at": "2026-05-10",
+      "title": "Show HN: SimplyBudget, AI Finance Tracker",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48085738",
+      "pushed_at": "2026-05-10",
+      "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
+      "pushed_at": "2026-05-10",
+      "title": "Getting a feel for how fast X tokens/second really is.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
+      "pushed_at": "2026-05-10",
+      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
+      "pushed_at": "2026-05-10",
+      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/",
+      "pushed_at": "2026-05-10",
+      "title": "I have DeepSeek V4 Pro at home",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9fta2/switched_from_opencode_to_pi_what_settingsplugins/",
+      "pushed_at": "2026-05-10",
+      "title": "Switched from OpenCode to Pi - What Settings/Plugins would you recommend?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/",
+      "pushed_at": "2026-05-10",
+      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t92hff/hello_from_10km_high_thanks_to_qwen_36_35b_a3b/",
+      "pushed_at": "2026-05-10",
+      "title": "Hello from 10KM high! - Thanks to Qwen 3.6 35b a3b!",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9cle9/anybody_else_noticing_how_good_gemma426ba4b_is/",
+      "pushed_at": "2026-05-10",
+      "title": "Anybody else noticing how good gemma-4-26b-a4b is with one-shotting three.js?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9lbcm/ran_some_llamacpp_rpc_test_to_see_if_its_worth_it/",
+      "pushed_at": "2026-05-10",
+      "title": "Ran some Llama.cpp RPC test to see if its worth it. And if 10Gbe needed.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/",
+      "pushed_at": "2026-05-10",
+      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/",
+      "pushed_at": "2026-05-10",
+      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/",
+      "pushed_at": "2026-05-10",
+      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/",
+      "pushed_at": "2026-05-10",
+      "title": "NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/",
+      "pushed_at": "2026-05-10",
+      "title": "Speeding up local LLM for usable coding agent",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t95k73/ds4/",
+      "pushed_at": "2026-05-10",
+      "title": "DS4",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "pushed_at": "2026-05-10",
+      "title": "bytedance/UI-TARS-desktop",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/rohitg00/agentmemory",
+      "pushed_at": "2026-05-10",
+      "title": "rohitg00/agentmemory",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "pushed_at": "2026-05-10",
+      "title": "datawhalechina/easy-vibe",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "pushed_at": "2026-05-10",
+      "title": "rowboatlabs/rowboat",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pushed_at": "2026-05-10",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/playcanvas/supersplat",
+      "pushed_at": "2026-05-10",
+      "title": "playcanvas/supersplat",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3802822550839047?f=rss",
+      "pushed_at": "2026-05-10",
+      "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3801745491943169?f=rss",
+      "pushed_at": "2026-05-10",
+      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3804084482268932?f=rss",
+      "pushed_at": "2026-05-10",
+      "title": "短剧出海爆发式增长，AI译制服务成为行业刚需",
+      "score": 7
     }
   ]
 }
